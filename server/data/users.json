@@ -1,0 +1,49 @@
+[
+  {
+    "id": "admin-seed-001",
+    "name": "System Administrator",
+    "email": "admin@censussaathi.in",
+    "salt": "7dbfcc64c14e5daf26177cc2ffb688d7",
+    "passwordHash": "8e7645d01c7db07d24167d51272df4fce88ea86c4d5347f275ce3153e93e42984e1eecfbee52e73a0eff4d457b4384eb3340aec9b4322e76876354ff7a323cea",
+    "role": "ADMIN",
+    "createdAt": "2026-09-01T08:04:19.246Z",
+    "lastLoginAt": "2026-09-01T08:26:17.716Z"
+  },
+  {
+    "id": "usr_a1a0bdd7",
+    "name": "Aarav Sharma",
+    "email": "citizen_1788249859197@example.com",
+    "salt": "a7d2c8158b33048277fc643eeef748c3",
+    "passwordHash": "e08488b78ceb657d86c7e1e800a1dcd9ea36ed2d888661cc1ed563592789b06d0fd7ed1fffe1aea93afbaf57223f2df5732dd167beeeee35150596dea4270cac",
+    "role": "USER",
+    "createdAt": "2026-09-01T08:04:19.312Z",
+    "lastLoginAt": "2026-09-01T08:04:19.464Z"
+  },
+  {
+    "id": "usr_f82a9bde",
+    "name": "Live Tester",
+    "email": "live_test_1788249899165@example.com",
+    "salt": "9619ffb87d7119f95ff302138afcb08e",
+    "passwordHash": "13b7bf3efd65582ad501c6ba8912244380dced68b559cd1cd2ff166afedae2c8246fb9ff740a55432b63f29521af6a71ac3f70cf3a955e9a68e19ef3f6a64d30",
+    "role": "USER",
+    "createdAt": "2026-09-01T08:04:59.202Z"
+  },
+  {
+    "id": "usr_6ab80e66",
+    "name": "Audit User",
+    "email": "audit_citizen_1788251036849@example.com",
+    "salt": "d137a2134b3ac78aaa3549ca7f553187",
+    "passwordHash": "a4cb3f608d4bb0b57620fa3092a07b1ae700a7b82d15b5d52957fc5b68e93c2605b3170a875e1c1edbf01996678a300c4aaff1c1f491f2930a4ff83e4bdee455",
+    "role": "USER",
+    "createdAt": "2026-09-01T08:23:56.889Z"
+  },
+  {
+    "id": "usr_59c4acc5",
+    "name": "Audit User",
+    "email": "audit_citizen_1788251177722@example.com",
+    "salt": "6e0c39a5fea22751b3c7d0f18ab8bbc9",
+    "passwordHash": "615457755059c570bfccec1607e01bfcb1f2e34bb57489d641159b94d7db768ecfc1d0f8ef67699c620aa65d2cf438d3bd9e9a02495fc3b60c4a26b85b2e45ef",
+    "role": "USER",
+    "createdAt": "2026-09-01T08:26:17.757Z"
+  }
+]
